@@ -12,10 +12,10 @@
 #Display user ahmed orders populated with product<br />
 <img src="q4.png" width="700" height="400" />
 
-#Get user ahemd highest order price
+#Get user ahemd highest order price<br />
 <img src="q5.png" width="700" height="400" />
 
-#import books.json
+#import books.json<br />
 <img src="q6.png" width="700" height="400" />
 
 
